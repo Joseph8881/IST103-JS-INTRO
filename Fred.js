@@ -17,3 +17,4 @@ console.log("he_has_a_car"+"is possession")
 
 const to_list =["washing","cooking","studing","panting","swimming"]
 
+let speaker={brand:"JBL",make:"Flip 5",color:"red",size:5}
