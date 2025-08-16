@@ -18,3 +18,17 @@ console.log("he_has_a_car"+"is possession")
 const to_list =["washing","cooking","studing","panting","swimming"]
 
 let speaker={brand:"JBL",make:"Flip 5",color:"red",size:5}
+
+
+console.log("washing"+" is clinsing clothes")
+console.log("cooking"+" is preparing food")
+console.log("studing"+" is learning book")
+console.log("swimming"+"is playing in the pool")
+
+
+console.log(brand,"JBL"+" is phone brand")
+console.log(make,"Flip 5"+"is phone make")
+console.log(color,"red"+"is phone color")
+console.log(size,5+"is phone size")
+
+
